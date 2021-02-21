@@ -1,0 +1,22 @@
+<layouttype>thumbnail</layouttype>
+
+
+<channels> 
+<channel> 
+<name>[B]Lupin[/B]</name>
+<link>http://ignorame<link>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_DE_M3U/main/Lupin.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]The Mandalorian[/B]</name>
+<link>http://ignorame<link>
+<thumbnail></thumbnail>
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Seriale_DE_M3U/main/The_Mandalorian.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
